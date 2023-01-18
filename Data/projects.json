@@ -1,0 +1,20 @@
+{
+    "projects_info": [
+        {
+            "id": "1",
+            "name": "Marvila",
+            "description": "Something strange is needed",
+            "begin_date": "20-12-2022",
+            "deadline": "21-12-2022",
+            "active": "true"
+        },
+        {
+            "id": "1",
+            "name": "teat",
+            "description": "etsts",
+            "begin_date": "20-12-2022",
+            "deadline": "21-12-2022",
+            "active": "false"
+        }
+    ]
+}
